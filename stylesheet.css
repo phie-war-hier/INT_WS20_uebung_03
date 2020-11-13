@@ -1,0 +1,103 @@
+
+ * {
+  box-sizing: border-box;
+}
+
+/*Allgemein*/
+
+h1 {
+	text-transform: uppercase;
+	color: #ffffff;	
+}
+h2 {
+	text-transform: uppercase;
+	color: #ffffff;	
+}
+
+body {
+	background: #6e6e6e;
+}
+
+
+
+th[scope="col"] {
+  
+
+
+}
+
+th[scope="row"] {
+	
+    
+}
+
+/*color: #ffffff;
+	background: #575757;
+	width: 50%;
+	height: auto;
+*/
+
+/*Tabellen Formtatierung*/
+
+table {
+	table-layout: auto;
+	color: #ffffff;
+	margin: 2%;
+	display: block;
+
+}	
+
+td, th {
+	text-align: center;
+	justify-content: center;
+	width: 16.66%;
+	background: #4a4a4a; 
+
+}
+
+
+/*Fächer Formarierung*/
+.z {
+	background-color: #8d4991;
+}
+
+.dtp-t {
+	background-color: #33804b;
+}
+
+.av {
+	background-color: #dbce0d;
+}
+
+.drt-t {
+	background-color: #0bacba;
+}
+
+.drt-p {
+	background-color: rgba(11, 171, 186, 0.3);
+	
+}
+
+.int {
+	background-color: #5c4fbd;
+}
+
+.ink {
+	background-color: #09b382;
+}
+
+.gg {
+	background-color: #79c742;
+}
+
+.kg {
+	background-color:  #cc4435;
+}
+
+.k-ein {
+	background-color: #9e5576;
+}
+
+.faq-d {
+	background-color: #d98f18;
+}
